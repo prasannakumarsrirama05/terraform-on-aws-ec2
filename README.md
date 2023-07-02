@@ -88,7 +88,6 @@
 37. Random Resource
 39. Terraform Import 
 
-## What will students learn in your course?
 - You will learn to master Terraform in a Real-world perspective with 22 demo's
 - You will build AWS VPC 3-Tier Architecture using Terraform
 - You will build various Load balancers CLB, ALB and NLB using Terraform
